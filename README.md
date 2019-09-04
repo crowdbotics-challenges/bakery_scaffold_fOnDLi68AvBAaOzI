@@ -1,5 +1,6 @@
-[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.org/crowdbotics-challenges/bakery_scaffold_fOnDLi68AvBAaOzI/builds/580560796)
+[![Status](https://img.shields.io/badge/status-not%20passing%20initial%20tests-red.svg)](https://travis-ci.com/crowdbotics-challenges/bakery_scaffold_fOnDLi68AvBAaOzI/builds/125837698)
 
+If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
 # Instructions 
 
